@@ -18,6 +18,8 @@ onevarsity/
 ```
 ---
 
+🔗 **Live Demo:** [Assignments page](https://hs024.github.io/onevarsity/)
+
 ## 📘 Projects Overview
 
 ### 🧑‍💻 Assignment 1: Portfolio Dashboard
