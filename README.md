@@ -62,7 +62,7 @@ assignment1/
 
 #### 🖼️ Preview
 
-![Portfolio Preview](assignment1/public/images/portfolio.png)
+![Portfolio Preview](himanshu/Assignment-1/portfolio-dashboard/public/images/portfolio.png)
 
 ---
 
@@ -117,7 +117,7 @@ assignment2/
 
 #### 🖼️ Preview
 
-![Internship Portal Preview](assignment2/public/intern.png)
+![Internship Portal Preview](himanshu/Assignment-2/internship-portal/public/intern.png)
 
 ---
 
